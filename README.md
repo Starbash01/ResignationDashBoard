@@ -57,3 +57,9 @@ Power BI Employee Resignation Dashboard analyzing attrition trends across depart
 ### Outcome
 
 The dashboard provides a comprehensive view of employee resignation, enabling HR teams and management to identify resignation trends, assess workforce satisfaction, evaluate retention factors, and make data-driven decisions to improve employee engagement.
+
+## DashBoard Interaction
+- <a href="https://github.com/Starbash01/ResignationDashBoard/blob/main/ResignationDashBoard.jpg"> View DashBoard </a>
+
+## DashBoard
+<img width="1320" height="745" alt="ResignationDashBoard" src="https://github.com/user-attachments/assets/0f415b46-35dd-48b9-9175-9dff888d6cd1" />
