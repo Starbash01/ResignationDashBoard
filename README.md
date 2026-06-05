@@ -63,3 +63,19 @@ The dashboard provides a comprehensive view of employee resignation, enabling HR
 
 ## DashBoard
 <img width="1320" height="745" alt="ResignationDashBoard" src="https://github.com/user-attachments/assets/0f415b46-35dd-48b9-9175-9dff888d6cd1" />
+
+### Key Insights from the Employee Resignation Dashboard
+
+2. **Impact of Stock Options**
+
+   * Employees with lower stock option levels showed a higher tendency to resign, suggesting that financial incentives may influence employee retention.
+   * Attrition varied across education levels, revealing that employees with certain educational backgrounds were more likely to leave the organization.
+   * The dashboard highlighted differences in resignation patterns between male and female employees, providing insights into workforce retention dynamics.
+   * Lower job satisfaction scores were associated with higher attrition rates, making employee satisfaction a key factor in retention.
+   * Employees reporting poor work-life balance demonstrated a greater likelihood of resigning, emphasizing the importance of workplace flexibility and employee well-being.
+   * Combining department, satisfaction, work-life balance, education and stock option data helped identify employee groups at the highest risk of leaving.
+   * The analysis revealed areas where improvements in benefits, recognition, career development, and work environment could enhance employee retention.
+
+### Project Conclusion
+
+The Employee Resignation Dashboard successfully transformed workforce data into actionable HR insights. The analysis showed that factors such as department, stock option levels, job satisfaction, work-life balance, education, and gender all contribute to employee attrition. By providing a clear and interactive view of these metrics, the dashboard enables HR professionals and management to identify retention challenges, develop targeted interventions, and implement data-driven strategies to reduce turnover and improve overall employee engagement.
