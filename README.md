@@ -2,7 +2,7 @@
 Power BI Employee Resignation Dashboard analyzing attrition trends across departments, education levels, gender, and stock option levels. Features interactive visualizations and gauge charts to evaluate work-life balance, job satisfaction, education, and stock option metrics, providing actionable workforce insights for HR decision-making.
 
 ## Powerbi Interface
-- <a href="https://github.com/Starbash01/ResignationDashBoard/blob/main/Resignation%20DashBoard.pbix"> Feel free to explore, download, and interact with this project. You're welcome to use it as a reference, adapt it to your own dataset, and experiment with different analyses or visualizations. I hope it provides useful insights and serves as a helpful resource for your own learning and projects.
+- <a href="https://github.com/Starbash01/ResignationDashBoard/blob/main/Resignation%20DashBoard.pbix"> Feel free to download, explore and interact with this project. You're welcome to use it as a reference, adapt it to your own dataset, and experiment with different analyses or visualizations. I hope it provides useful insights and serves as a helpful resource for your own learning and projects.
 
 If you find this project valuable, consider giving it a ⭐ and sharing your feedback or suggestions. Your support and contributions are always appreciated!
  </a>
