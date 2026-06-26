@@ -65,7 +65,9 @@ The dashboard provides a comprehensive view of employee resignation, enabling HR
 - <a href="https://github.com/Starbash01/ResignationDashBoard/blob/main/ResignationDashBoard.jpg"> View DashBoard </a>
 
 ## DashBoard
-<img width="1320" height="745" alt="ResignationDashBoard" src="https://github.com/user-attachments/assets/0f415b46-35dd-48b9-9175-9dff888d6cd1" />
+
+<img width="1514" height="853" alt="Resignation DashBoard" src="https://github.com/user-attachments/assets/339077cc-dea3-4e87-b2a6-20023b9e31cc" />
+
 
 ### Key Insights from the Employee Resignation Dashboard
 
