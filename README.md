@@ -62,7 +62,7 @@ If you find this project valuable, consider giving it a ⭐ and sharing your fee
 The dashboard provides a comprehensive view of employee resignation, enabling HR teams and management to identify resignation trends, assess workforce satisfaction, evaluate retention factors, and make data-driven decisions to improve employee engagement.
 
 ## DashBoard Interaction
-- <a href="https://[github.com/Starbash01/ResignationDashBoard/blob/main/Resignation%20DashBoard.pdf]"> View DashBoard </a>
+- <a href="https://https://github.com/Starbash01/ResignationDashBoard/blob/main/Resignation%20DashBoard.pdf"> View DashBoard </a>
 
 ## DashBoard
 
