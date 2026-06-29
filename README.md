@@ -71,7 +71,7 @@ The dashboard provides a comprehensive view of employee resignation, enabling HR
 
 ### Key Insights from the Employee Resignation Dashboard
 
-2. **Impact of Stock Options**
+ **Impact of Stock Options**
 
    * Employees with lower stock option levels showed a higher tendency to resign, suggesting that financial incentives may influence employee retention.
    * Attrition varied across education levels, revealing that employees with certain educational backgrounds were more likely to leave the organization.
