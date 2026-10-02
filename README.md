@@ -55,7 +55,7 @@ If you find this project valuable, consider giving it a ⭐ and sharing your fee
    * Added slicers and filters for dynamic analysis.
    * Enabled cross-filtering across visuals for deeper insights.
    * Tested user interactions and dashboard responsiveness.
-   * Analyzed trends and patterns affecting employee resignations.
+   * Analyzed trends and patterns affecting employee resignations. 
 
 ### Outcome
 
